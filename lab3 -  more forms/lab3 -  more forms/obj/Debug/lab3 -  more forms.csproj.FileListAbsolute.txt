@@ -1,0 +1,11 @@
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\bin\Debug\lab3 -  more forms.exe.config
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\bin\Debug\lab3 -  more forms.exe
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\bin\Debug\lab3 -  more forms.pdb
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3 -  more forms.csproj.AssemblyReference.cache
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3____more_forms.Poly_Test.resources
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3____more_forms.Properties.Resources.resources
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3 -  more forms.csproj.GenerateResource.cache
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3 -  more forms.csproj.CoreCompileInputs.cache
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3 -  more forms.exe
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3 -  more forms.pdb
+D:\bca 5th sem\dot net\codes\lab3 -  more forms\lab3 -  more forms\obj\Debug\lab3____more_forms.VIrtualDemo.resources

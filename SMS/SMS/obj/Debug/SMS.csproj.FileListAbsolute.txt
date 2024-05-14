@@ -1,0 +1,21 @@
+D:\bca 5th sem\dot net\codes\SMS\SMS\bin\Debug\SMS.exe.config
+D:\bca 5th sem\dot net\codes\SMS\SMS\bin\Debug\SMS.exe
+D:\bca 5th sem\dot net\codes\SMS\SMS\bin\Debug\SMS.pdb
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.DisplayStudent.resources
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.exe
+D:\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.pdb
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.DisplayStudent.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.Form1.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.exe
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\obj\Debug\SMS.pdb
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\bin\Debug\SMS.exe.config
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\bin\Debug\SMS.exe
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\SMS\SMS\bin\Debug\SMS.pdb

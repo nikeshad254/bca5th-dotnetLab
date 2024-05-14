@@ -1,0 +1,22 @@
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\bin\Debug\lab 1.exe.config
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\bin\Debug\lab 1.exe
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\bin\Debug\lab 1.pdb
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.csproj.AssemblyReference.cache
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab_1.Form1.resources
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.exe
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.pdb
+D:\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab_1.Home.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\bin\Debug\lab 1.exe.config
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\bin\Debug\lab 1.exe
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\bin\Debug\lab 1.pdb
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab_1.Form1.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab_1.Home.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.exe
+E:\OneDrive\OneDrive - MSFT\bca 5th sem\dot net\codes\lab 1\lab 1\obj\Debug\lab 1.pdb
