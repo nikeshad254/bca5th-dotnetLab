@@ -1,0 +1,14 @@
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\bin\Debug\net8.0\FruitFinder_lamdaExp.exe
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\bin\Debug\net8.0\FruitFinder_lamdaExp.deps.json
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\bin\Debug\net8.0\FruitFinder_lamdaExp.runtimeconfig.json
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\bin\Debug\net8.0\FruitFinder_lamdaExp.dll
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\bin\Debug\net8.0\FruitFinder_lamdaExp.pdb
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.AssemblyInfoInputs.cache
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.AssemblyInfo.cs
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.csproj.CoreCompileInputs.cache
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.dll
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\refint\FruitFinder_lamdaExp.dll
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.pdb
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\FruitFinder_lamdaExp.genruntimeconfig.cache
+D:\Nikesh\FruitFinder_lamdaExp\FruitFinder_lamdaExp\obj\Debug\net8.0\ref\FruitFinder_lamdaExp.dll

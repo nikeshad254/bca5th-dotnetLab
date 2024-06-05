@@ -1,0 +1,14 @@
+D:\Nikesh\TernaryMessage\TernaryMessage\bin\Debug\net8.0\TernaryMessage.exe
+D:\Nikesh\TernaryMessage\TernaryMessage\bin\Debug\net8.0\TernaryMessage.deps.json
+D:\Nikesh\TernaryMessage\TernaryMessage\bin\Debug\net8.0\TernaryMessage.runtimeconfig.json
+D:\Nikesh\TernaryMessage\TernaryMessage\bin\Debug\net8.0\TernaryMessage.dll
+D:\Nikesh\TernaryMessage\TernaryMessage\bin\Debug\net8.0\TernaryMessage.pdb
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.AssemblyInfoInputs.cache
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.AssemblyInfo.cs
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.csproj.CoreCompileInputs.cache
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.dll
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\refint\TernaryMessage.dll
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.pdb
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\TernaryMessage.genruntimeconfig.cache
+D:\Nikesh\TernaryMessage\TernaryMessage\obj\Debug\net8.0\ref\TernaryMessage.dll

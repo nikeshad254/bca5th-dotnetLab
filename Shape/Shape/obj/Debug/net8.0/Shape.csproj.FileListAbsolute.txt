@@ -1,0 +1,14 @@
+D:\Nikesh\Shape\Shape\bin\Debug\net8.0\Shape.exe
+D:\Nikesh\Shape\Shape\bin\Debug\net8.0\Shape.deps.json
+D:\Nikesh\Shape\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+D:\Nikesh\Shape\Shape\bin\Debug\net8.0\Shape.dll
+D:\Nikesh\Shape\Shape\bin\Debug\net8.0\Shape.pdb
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.dll
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\refint\Shape.dll
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.pdb
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+D:\Nikesh\Shape\Shape\obj\Debug\net8.0\ref\Shape.dll

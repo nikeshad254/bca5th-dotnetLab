@@ -1,0 +1,14 @@
+D:\Nikesh\ArrayOperations\ArrayOperations\bin\Debug\net8.0\ArrayOperations.exe
+D:\Nikesh\ArrayOperations\ArrayOperations\bin\Debug\net8.0\ArrayOperations.deps.json
+D:\Nikesh\ArrayOperations\ArrayOperations\bin\Debug\net8.0\ArrayOperations.runtimeconfig.json
+D:\Nikesh\ArrayOperations\ArrayOperations\bin\Debug\net8.0\ArrayOperations.dll
+D:\Nikesh\ArrayOperations\ArrayOperations\bin\Debug\net8.0\ArrayOperations.pdb
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.AssemblyInfoInputs.cache
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.AssemblyInfo.cs
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.csproj.CoreCompileInputs.cache
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.dll
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\refint\ArrayOperations.dll
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.pdb
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ArrayOperations.genruntimeconfig.cache
+D:\Nikesh\ArrayOperations\ArrayOperations\obj\Debug\net8.0\ref\ArrayOperations.dll

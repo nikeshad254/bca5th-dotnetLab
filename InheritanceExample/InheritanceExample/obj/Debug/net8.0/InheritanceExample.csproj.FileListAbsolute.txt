@@ -1,0 +1,14 @@
+D:\Nikesh\InheritanceExample\InheritanceExample\bin\Debug\net8.0\InheritanceExample.exe
+D:\Nikesh\InheritanceExample\InheritanceExample\bin\Debug\net8.0\InheritanceExample.deps.json
+D:\Nikesh\InheritanceExample\InheritanceExample\bin\Debug\net8.0\InheritanceExample.runtimeconfig.json
+D:\Nikesh\InheritanceExample\InheritanceExample\bin\Debug\net8.0\InheritanceExample.dll
+D:\Nikesh\InheritanceExample\InheritanceExample\bin\Debug\net8.0\InheritanceExample.pdb
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.AssemblyInfoInputs.cache
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.AssemblyInfo.cs
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.dll
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\refint\InheritanceExample.dll
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.pdb
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\InheritanceExample.genruntimeconfig.cache
+D:\Nikesh\InheritanceExample\InheritanceExample\obj\Debug\net8.0\ref\InheritanceExample.dll

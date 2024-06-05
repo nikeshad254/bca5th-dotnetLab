@@ -1,0 +1,14 @@
+D:\Nikesh\LinqExample\LinqExample\bin\Debug\net8.0\LinqExample.exe
+D:\Nikesh\LinqExample\LinqExample\bin\Debug\net8.0\LinqExample.deps.json
+D:\Nikesh\LinqExample\LinqExample\bin\Debug\net8.0\LinqExample.runtimeconfig.json
+D:\Nikesh\LinqExample\LinqExample\bin\Debug\net8.0\LinqExample.dll
+D:\Nikesh\LinqExample\LinqExample\bin\Debug\net8.0\LinqExample.pdb
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.AssemblyInfoInputs.cache
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.AssemblyInfo.cs
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.csproj.CoreCompileInputs.cache
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.dll
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\refint\LinqExample.dll
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.pdb
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\LinqExample.genruntimeconfig.cache
+D:\Nikesh\LinqExample\LinqExample\obj\Debug\net8.0\ref\LinqExample.dll

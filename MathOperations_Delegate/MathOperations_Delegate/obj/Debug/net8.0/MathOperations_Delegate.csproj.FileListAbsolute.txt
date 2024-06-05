@@ -1,0 +1,14 @@
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\bin\Debug\net8.0\MathOperations_Delegate.exe
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\bin\Debug\net8.0\MathOperations_Delegate.deps.json
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\bin\Debug\net8.0\MathOperations_Delegate.runtimeconfig.json
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\bin\Debug\net8.0\MathOperations_Delegate.dll
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\bin\Debug\net8.0\MathOperations_Delegate.pdb
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.AssemblyInfoInputs.cache
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.AssemblyInfo.cs
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.csproj.CoreCompileInputs.cache
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.dll
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\refint\MathOperations_Delegate.dll
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.pdb
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\MathOperations_Delegate.genruntimeconfig.cache
+D:\Nikesh\MathOperations_Delegate\MathOperations_Delegate\obj\Debug\net8.0\ref\MathOperations_Delegate.dll

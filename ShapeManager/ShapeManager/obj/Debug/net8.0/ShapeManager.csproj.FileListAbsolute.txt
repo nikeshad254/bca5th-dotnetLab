@@ -1,0 +1,14 @@
+D:\Nikesh\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.exe
+D:\Nikesh\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.deps.json
+D:\Nikesh\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.runtimeconfig.json
+D:\Nikesh\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.dll
+D:\Nikesh\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.pdb
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.AssemblyInfoInputs.cache
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.AssemblyInfo.cs
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.csproj.CoreCompileInputs.cache
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.dll
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\refint\ShapeManager.dll
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.pdb
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.genruntimeconfig.cache
+D:\Nikesh\ShapeManager\ShapeManager\obj\Debug\net8.0\ref\ShapeManager.dll

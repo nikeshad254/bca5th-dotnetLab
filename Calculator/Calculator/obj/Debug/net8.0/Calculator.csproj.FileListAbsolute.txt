@@ -1,0 +1,14 @@
+D:\Nikesh\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Nikesh\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Nikesh\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Nikesh\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Nikesh\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Nikesh\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

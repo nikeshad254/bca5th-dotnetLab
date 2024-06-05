@@ -1,0 +1,14 @@
+D:\Nikesh\SimpleSubstring\SimpleSubstring\bin\Debug\net8.0\SimpleSubstring.exe
+D:\Nikesh\SimpleSubstring\SimpleSubstring\bin\Debug\net8.0\SimpleSubstring.deps.json
+D:\Nikesh\SimpleSubstring\SimpleSubstring\bin\Debug\net8.0\SimpleSubstring.runtimeconfig.json
+D:\Nikesh\SimpleSubstring\SimpleSubstring\bin\Debug\net8.0\SimpleSubstring.dll
+D:\Nikesh\SimpleSubstring\SimpleSubstring\bin\Debug\net8.0\SimpleSubstring.pdb
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.AssemblyInfoInputs.cache
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.AssemblyInfo.cs
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.csproj.CoreCompileInputs.cache
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.dll
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\refint\SimpleSubstring.dll
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.pdb
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\SimpleSubstring.genruntimeconfig.cache
+D:\Nikesh\SimpleSubstring\SimpleSubstring\obj\Debug\net8.0\ref\SimpleSubstring.dll

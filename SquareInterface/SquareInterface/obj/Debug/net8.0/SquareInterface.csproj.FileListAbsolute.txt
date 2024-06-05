@@ -1,0 +1,14 @@
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.AssemblyInfoInputs.cache
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.AssemblyInfo.cs
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.csproj.CoreCompileInputs.cache
+D:\Nikesh\SquareInterface\SquareInterface\bin\Debug\net8.0\SquareInterface.exe
+D:\Nikesh\SquareInterface\SquareInterface\bin\Debug\net8.0\SquareInterface.deps.json
+D:\Nikesh\SquareInterface\SquareInterface\bin\Debug\net8.0\SquareInterface.runtimeconfig.json
+D:\Nikesh\SquareInterface\SquareInterface\bin\Debug\net8.0\SquareInterface.dll
+D:\Nikesh\SquareInterface\SquareInterface\bin\Debug\net8.0\SquareInterface.pdb
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.dll
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\refint\SquareInterface.dll
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.pdb
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\SquareInterface.genruntimeconfig.cache
+D:\Nikesh\SquareInterface\SquareInterface\obj\Debug\net8.0\ref\SquareInterface.dll
